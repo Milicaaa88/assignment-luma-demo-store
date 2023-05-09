@@ -39,12 +39,13 @@ try{
 
     productTitleText.should.equal('Radiant Tee');
     productTitlePrice.should.equal('$22.00');
+    
 
 } catch(error) {
     console.log(error);
 
 } finally {
-    await driver.quit();
+    //await driver.quit();
 }
         });
     });
