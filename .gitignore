@@ -1,0 +1,6 @@
+# Folders
+node_modules/
+package-lock.json
+
+# Specific configuration
+package-lock.json
